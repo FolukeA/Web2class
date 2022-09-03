@@ -1,0 +1,18 @@
+.section1 {
+    display: flex;
+    place-content: space-between;
+    background-color: #1e0080;
+    }
+    .brand {
+        color: white;
+        font-weight: bolder;
+            }
+    .home-nav {
+        display: flex;
+        list-style-type: none;
+        text-decoration: none;
+        }
+        a {
+            color: white;
+margin: 2rem
+        }
